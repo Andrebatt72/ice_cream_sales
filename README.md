@@ -70,8 +70,17 @@ Para resolver isso, decidi usar **Machine Learning** para criar um modelo predit
 
 ## 📸 Prints do Projeto
 
-> *[Aqui você pode inserir algumas imagens mostrando seu código rodando, seus gráficos de análise, o MLflow, etc]*  
-> (Sugestão: use `![descrição](caminho_da_imagem)` no markdown)
+### 🔵 Avançando no Projeto
+
+![Avançando](https://satreinamentoazureblob1.blob.core.windows.net/apps/Avancando.JPG)
+
+### 🟠 Deploy do Modelo
+
+![Deploy](https://satreinamentoazureblob1.blob.core.windows.net/apps/Deploy.JPG)
+
+### 🟣 Deploy Avançado
+
+![Deploy Avançado](https://satreinamentoazureblob1.blob.core.windows.net/apps/Deploy_2.JPG)
 
 ---
 
